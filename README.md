@@ -89,7 +89,7 @@
         <img src="https://img.shields.io/badge/-Muzamils782@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://www.instagram.com/muzamilshahonline/">
-        <img src="https://img.shields.io/badge/-Muzamil-Shah-Online-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+        <img src="https://img.shields.io/badge/-Muzamilshahonline-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
 </p>
 
