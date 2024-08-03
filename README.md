@@ -80,9 +80,16 @@
     
 </table>
 <p align="center">
-<a href=https://www.linkedin.com/in/muzamil-shah-2a823424a/?originalSubdomain=pk"><img src="https://img.shields.io/badge/-muzamil-shah-2a823424a/?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:muzamils782@gmail.com"><img src="https://img.shields.io/badge/-Muzamils782@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/muzamilshahonline/"><img src="https://img.shields.io/badge/-muzamilshahonline-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
- </p>
+    <a href="https://www.linkedin.com/in/muzamil-shah-2a823424a/?originalSubdomain=pk">
+        <img src="https://img.shields.io/badge/-muzamil_shah-2a823424a?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:muzamils782@gmail.com">
+        <img src="https://img.shields.io/badge/-Muzamils782@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://www.instagram.com/muzamilshahonline/">
+        <img src="https://img.shields.io/badge/-muzamilshahonline-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+</p>
+
  
 <br>
