@@ -4,10 +4,8 @@
   </div> -->
 
 <div align="center">
-    <h1>Hi there, I'm Muzamil Shah👋</h1>
-    <p>
-        Check out my <a href="https://github.com/Muzamilshah11" target="_blank">GitHub</a>!
-    </p>
+    <h1>Hi there, I'm Muzamil Shah👋
+    <a href="https://github.com/Muzamilshah11" target="_blank"></a> </h1>
 </div>
 	
  
@@ -25,7 +23,8 @@
 💸 Help 80+ Clients via Generative AI & Automation
 
 📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
- 
+         📧 Book a free 1v1 consultation via directly on WhatsApp at <a href="https://wa.me/923481901987" target="_blank">+92 348 1901987</a>.
+
 <h2>Tech Stack</h2>
 
 <table width="100">
