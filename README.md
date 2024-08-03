@@ -1,7 +1,5 @@
 <body>
-<!--   <div align="center">
-    <h1> Hi there, I'm Muzamil Shah👋<a href="https://hammad-air.github.io/hammad/"></h1>
-  </div> -->
+
 
 <div align="center">
     <h1>Hi there, I'm Muzamil Shah👋
@@ -11,16 +9,13 @@
  
  <p align="center">
 <a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
-	
-<!-- ## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
- -->
+
 
 🤵 Founder & CEO of www.shahipk.shop 🤖
 	
 👨‍💻 AI Engineer CargoAI
 	
-💸 Help 80+ Clients via Generative AI & Automation
+💸 Help 80+ Clients via Generative AI & Automation<br>
 📧 Book a free 1v1 consultation via directly on WhatsApp at <a href="https://wa.me/923481901987" target="_blank">+92 348 1901987</a>.
 
 <h2>Tech Stack</h2>
